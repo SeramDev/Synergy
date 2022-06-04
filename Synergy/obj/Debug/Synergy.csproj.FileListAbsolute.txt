@@ -1,0 +1,181 @@
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Synergy.exe.config
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Synergy.exe
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Synergy.pdb
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\MySql.Data.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Google.Protobuf.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Zstandard.Net.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Ubiety.Dns.Core.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\Renci.SshNet.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\System.Memory.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\System.Buffers.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\stdole.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\MySql.Data.xml
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.csproj.AssemblyReference.cache
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.exe.config
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Admin.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Attendance.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Class.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Dashboard.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.login.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Payment.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Payment_report.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Properties.Resources.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Quickscan.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.Student.resources
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.csproj.GenerateResource.cache
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.csproj.CoreCompileInputs.cache
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.csproj.CopyComplete
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.exe
+E:\Projects\Seram\Synergy\Synergy\obj\Debug\Synergy.pdb
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\Seram\Synergy\Synergy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe.config
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\Synergy.pdb
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\stdole.dll
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Admin.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Attendance.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Class.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Dashboard.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.login.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Payment.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Payment_report.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Properties.Resources.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Quickscan.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.Student.resources
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.CopyComplete
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.exe
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.pdb
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe.manifest
+C:\Users\User\source\repos\Synergy\Synergy\bin\Debug\Synergy.application
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.exe.manifest
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.application
+C:\Users\User\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe.config
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe.manifest
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\Synergy.application
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\Synergy.exe
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\Synergy.pdb
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\MySql.Data.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\stdole.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Admin.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Attendance.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Class.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Dashboard.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.login.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Payment.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Payment_report.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Properties.Resources.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Quickscan.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.Student.resources
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.GenerateResource.cache
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.exe.manifest
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.application
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.exe
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.pdb
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sachin\source\repos\Synergy\Synergy\obj\Debug\Synergy.csproj.AssemblyReference.cache
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\Synergy.exe.config
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\Synergy.exe.manifest
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\Synergy.application
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\Synergy.exe
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\Synergy.pdb
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\AxShockwaveFlashObjects.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.Shared.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\ShockwaveFlashObjects.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\stdole.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\git\My Projects\Synergy\Synergy\Synergy\bin\Debug\MySql.Data.xml
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.csproj.AssemblyReference.cache
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Admin.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Attendance.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Class.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Dashboard.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.login.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Payment.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Payment_report.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Properties.Resources.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Quickscan.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.Student.resources
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.csproj.GenerateResource.cache
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.csproj.CoreCompileInputs.cache
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.exe.manifest
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.application
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.csproj.CopyComplete
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.exe
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.pdb
