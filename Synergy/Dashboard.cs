@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -51,6 +52,22 @@ namespace Synergy
             DialogResult dlgresult = MessageBox.Show("are you sure want to logout?", "Logout", MessageBoxButtons.YesNo);
             if (dlgresult == DialogResult.Yes)
             {
+                string path = "C:\\Users\\sachi\\OneDrive\\Synergy_DB\\backup.sql";
+                string connectionString = "datasource=localhost;port=3306;username=root;password=;database=ict_db; convert zero datetime = true;";
+                using (MySqlConnection con = new MySqlConnection(connectionString))
+                {
+                    using (MySqlCommand cmd = new MySqlCommand())
+                    {
+                        using (MySqlBackup mb = new MySqlBackup(cmd))
+                        {
+                            cmd.Connection = con;
+                            con.Open();
+                            mb.ExportToFile(path);
+                            con.Close();
+                            MessageBox.Show("Backup Compleated");
+                        }
+                    }
+                }
                 login loginObj = new login();
                 loginObj.Show();
                 this.Hide();

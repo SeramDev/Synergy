@@ -79,6 +79,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\Downloads\MySql.Data.dll</HintPath>
     </Reference>
+    <Reference Include="mysqlbackup">
+      <HintPath>..\..\..\Projects\gem mobile - Copy (2)\mysqlbackup.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
