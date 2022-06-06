@@ -179,3 +179,4 @@ D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.application
 D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.csproj.CopyComplete
 D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.exe
 D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.pdb
+D:\git\My Projects\Synergy\Synergy\Synergy\obj\Debug\Synergy.exe.config

@@ -64,7 +64,6 @@ namespace Synergy
                             con.Open();
                             mb.ExportToFile(path);
                             con.Close();
-                            MessageBox.Show("Backup Compleated");
                         }
                     }
                 }
